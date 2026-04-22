@@ -2,15 +2,7 @@
 
 This project analyzes marketing campaign data to understand performance, optimize ROI, and identify key factors influencing campaign success.
 
----
 
-## 📁 Project Files
-
-- `analysis.ipynb` → Python code for data analysis  
-- `dataset.csv` → Marketing campaign dataset  
-- `report.pdf` → Detailed project report  
-
----
 
 ## 🎯 Objectives
 
